@@ -15,7 +15,8 @@
   <img align="center" alt="Fernanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="right" alt="Fernanda-pic" height="150" style="border-radius:50px;" 
+  src="![image](https://user-images.githubusercontent.com/90333256/149636187-6e6009a9-ac47-4b6e-924d-440d7d4b8e67.png)">
   
 </div>
 
