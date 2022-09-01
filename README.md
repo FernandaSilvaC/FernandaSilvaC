@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Fernanda Silva 
 
 - 🔭 Desenvolvedora Web 
-- 🌱 Estudando HTML / CSS / JS 
+- 🌱 HTML / CSS / JS / REACT /  
 - 😄 Pronomes: ela/dela
 
 <div>
